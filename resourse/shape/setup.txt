@@ -1,0 +1,8 @@
+settings:
+size: 5 5
+data:
+o$o$$
+$o$$$
+$HHo$
+ooo$$
+$oo$$

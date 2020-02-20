@@ -1,0 +1,5 @@
+settings:
+size: 3 2
+data:
+/|\
++-+
